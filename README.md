@@ -34,6 +34,16 @@
 
 <h2>About SQL</h2>
 
-SQL (Structured Query Language) is an open-source relational database management system (RDBMS). It's widely used for web applications and is known for its speed, reliability, and ease of use. It stores data in tables with rows and columns.
+SQL is a standard programming language used to manage relational databases and perform various operations on the data within them. Key capabilities of SQL include:
+
+  - <b>Querying Data:</b> Retrieving specific information from a database.
+
+  - <b>Data Manipulation:</b> Inserting new data, updating existing data, and deleting data.
+
+  - <b>Data Definition:</b> Creating, modifying, and deleting database schemas (tables, indexes, views, etc.).
+
+  - <b>Data Control:</b> Managing database access permissions.
+
+
 
 
