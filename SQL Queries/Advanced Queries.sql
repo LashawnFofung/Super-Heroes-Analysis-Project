@@ -15,3 +15,11 @@ FROM heroes_information
 WHERE Height != -99.0 AND Weight != -99.0
 GROUP BY Gender, Alignment
 ORDER BY Gender, Alignment;
+
+
+/*Count of Heroes per Publisher and Race
+-This query helps you understand the composition of heroes by race within each publisher.*/
+SELECT Publisher, Race, COUNT(*) AS NumberOfHeroes
+FROM heroes_information
+GROUP BY Publisher, Race
+ORDER BY Publisher, NumberOfHeroes DESC;
