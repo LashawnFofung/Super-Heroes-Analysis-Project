@@ -32,6 +32,6 @@
 
 <h2>About SQL</h2>
 
-SQL (Structured Query Language) is a programming language for interacting with relational databases. Key SQL capabilities:
+SQL (Structured Query Language) is an open-source relational database management system (RDBMS). It's widely used for web applications and is known for its speed, reliability, and ease of use. It stores data in tables with rows and columns.
 
 
