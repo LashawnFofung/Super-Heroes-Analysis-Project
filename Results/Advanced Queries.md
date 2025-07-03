@@ -1,4 +1,4 @@
-#Super-Hero
+#Superhero Analysis Project
 
 <h1>Advanced Queries</h1>
 
