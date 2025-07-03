@@ -27,7 +27,9 @@
 <h2>Tech Stack</h2>
  
   - <b>MySQL</b>
+    - This is an open-source relational database management system (RDBMS). It's widely used for web applications and is known for its speed, reliability, and ease of use. It stores data in tables with rows and columns.
   - <b>MySQL Workbench</b>
+    - This is a visual database design tool that integrates SQL development, administration, database design, creation, and maintenance for the MySQL database system. It provides a graphical interface for users to interact with their MySQL databases.
 
 
 <h2>About SQL</h2>
