@@ -37,5 +37,5 @@ This query groups by the Alignment column and provides a count for each alignmen
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Alignment%20vs%20Number%20of%20Hereos.png" width="450" alt="Alignment"
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Alignment%20vs%20Number%20of%20Hereos.png" width="450" alt="Alignment">
 
