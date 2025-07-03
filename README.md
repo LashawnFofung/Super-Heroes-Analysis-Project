@@ -18,6 +18,8 @@
 
 <h2>Overview</h2>
 
+As an enthusiast of superheroes, particularly those from Marvel and DC Comics, I found the `heroes_information.csv` dataset to be an incredibly exciting resource for exploration. This project delves into the characteristics of various comic book heroes, aiming to uncover fascinating insights into their attributes and distributions. It served as an excellent opportunity to refresh and apply my SQL skills to a dataset I genuinely enjoyed analyzing. The analysis was conducted in July 2025.
+
 <h1></h1>
 
 <h2>Dataset</h2>
