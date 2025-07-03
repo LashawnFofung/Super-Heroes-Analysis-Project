@@ -10,3 +10,14 @@
 This query groups the data by the Publisher column and counts the number of entries for each, then orders them from most to least heroes.
 
 <h1></h1>
+
+<h2>Gender vs Number of Hereos</h2>
+
+<b>Question: What is the breakdown of heroes by gender?
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Gender%20vs%20Number%20Of%20Hereos.png” width="200" alt=“Gender”>
+
+This will show you the count of heroes for each gender present in your dataset.
+
+<h1></h1>
+
