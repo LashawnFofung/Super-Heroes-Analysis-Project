@@ -26,3 +26,12 @@ SELECT Alignment, COUNT(*) AS NumberOfHeroes
 FROM heroes_information
 GROUP BY Alignment
 ORDER BY NumberOfHeroes DESC;
+
+
+/*Average Height
+-Since the Height and Weight columns exist, and knowing that '-99.0' represents missing data, 
+here are the queries to calculate the average height and weight, 
+excluding those placeholder values*/
+SELECT AVG(Height) AS AverageHeight
+FROM heroes_information
+WHERE Height != -99.0;
