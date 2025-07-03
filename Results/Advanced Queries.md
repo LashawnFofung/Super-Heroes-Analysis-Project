@@ -28,4 +28,14 @@ This query helps you understand the composition of heroes by race within each pu
 
 <h1></h1>
 
-<h2></h2>
+<h2>Publishers with Heroes of Multiple Alignments</h2>
+
+<b>Question:Which publishers have heroes with multiple different alignments?</b>
+
+This query identifies publishers that have heroes spanning different alignments (e.g., both "Good" and "Bad" or "Neutral" heroes).This query counts the distinct alignment types for each publisher and then filters for publishers that have more than one unique alignment. 
+
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="450" alt="Publishers with Heroes of Multiple Alignments">
+
