@@ -1,4 +1,8 @@
-/* Super Hero Dataset Exploration*/
+/*
+Super Heroes Dataset Exploration
+
+Skills used: SELECT, GROUP, ORDER
+*/
 
 
 /*Average Height and Weight by Gender and Alignment
