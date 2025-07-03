@@ -1,5 +1,5 @@
 
-<h1>Super Hereos Analysis Project</h1>
+<h1>Superhereos Analysis Project</h1>
 <h1></h1>
 
 <h2>Table of Contents</h2>
