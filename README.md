@@ -21,6 +21,34 @@
 
 <h2>Dataset</h2>
 
+This project utilizes the heroes_information.csv dataset, which contains detailed information about various comic book heroes. Each row in the dataset represents a unique hero, and the columns provide different attributes about them.
+
+Key features and columns of the dataset include:
+
+  -  name: The name of the hero.
+  
+  -  Gender: The gender of the hero.
+  
+  -  Eye color: The eye color of the hero.
+  
+  -  Race: The race or species of the hero.
+  
+  -  Hair color: The hair color of the hero.
+  
+  -  Height: The height of the hero (note: '-99.0' typically indicates missing or unknown values).
+  
+  -  Publisher: The comic book publisher associated with the hero (e.g., Marvel Comics, DC Comics).
+  
+  -  Skin color: The skin color of the hero.
+  
+  -  Alignment: The moral alignment of the hero (e.g., 'Good', 'Bad', 'Neutral').
+  
+  -  Weight: The weight of the hero (note: '-99.0' typically indicates missing or unknown values).
+
+This dataset is ideal for performing various analytical tasks related to character demographics, publisher distribution, and other attributes within the superhero universe.
+
+
+<h1></h1>
 
 <h2>Task Performed</h2>
 
