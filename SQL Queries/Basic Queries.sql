@@ -18,3 +18,11 @@ SELECT Gender, COUNT(*) AS NumberOfHeroes
 FROM heroes_information
 GROUP BY Gender
 ORDER BY NumberOfHeroes DESC;
+
+
+/*Alignment vs Number of Hereos (Good, Bad, Neutral)
+-To understand the alignment distribution of heroes (e.g., good, bad, neutral)*/
+SELECT Alignment, COUNT(*) AS NumberOfHeroes
+FROM heroes_information
+GROUP BY Alignment
+ORDER BY NumberOfHeroes DESC;
