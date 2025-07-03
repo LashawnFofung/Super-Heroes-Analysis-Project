@@ -9,6 +9,7 @@
    - [<b>Task Performed</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#task-perfomed)
    - [<b>Tech Stack</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tech-stack)
    - [<b>About SQL</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#about-sql)
+   - [<b>Data Source</b>]()
 
 
 
@@ -96,6 +97,27 @@ SQL is a standard programming language used to manage relational databases and p
   - <b>Data Control:</b> Managing database access permissions.
 
 <h1></h1>
+
+
+Data Source
+
+The `heroes_information.csv` dataset utilized in this project is part of a larger Super Heroes Dataset originally sourced from Kaggle:
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/claudiodavi/superhero-set
+
+About the Dataset's Context:
+This dataset was compiled to provide an overview of comic book heroes, focusing on their physical and power characteristics. It aims to help researchers and enthusiasts identify trends and patterns, particularly in the context of increasing diversity within popular culture's superheroes.
+
+Content Note:
+The data was collected in June 2017 from SuperHeroDb and has not been updated since, meaning it might not reflect the most current information. The Kaggle dataset originally contains two files; this project specifically uses the one detailing hero characteristics (e.g., gender, eye color, height, publisher, alignment, weight).
+
+Acknowledgements:
+
+-  The original data was scraped from SuperHeroDb.
+-  The analysis of the dataset was conducted in July 2025.
+
+
+
 
 
 
