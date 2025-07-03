@@ -20,6 +20,10 @@
 
 As an enthusiast of superheroes, particularly those from Marvel and DC Comics, I found the `heroes_information.csv` dataset to be an incredibly exciting resource for exploration. This project delves into the characteristics of various comic book heroes, aiming to uncover fascinating insights into their attributes and distributions. It served as an excellent opportunity to refresh and apply my SQL skills to a dataset I genuinely enjoyed analyzing. The analysis was conducted in July 2025.
 
+This portfolio project involves a detailed analysis of 732 superhero records from the heroes_information.csv dataset, comprising 11 columns of unique characteristics for each hero. The primary goal is to showcase key insights derived from this rich dataset, demonstrating proficiency in data analysis using SQL.
+
+Leveraging MySQL and MySQL Workbench, this project undertakes comprehensive exploratory data analysis (EDA) to uncover various patterns and distributions within the superhero universe. The analysis includes examining the distribution of heroes by publisher, gender, and alignment, calculating average physical attributes, and performing more advanced inquiries such as understanding hero composition by race within publishers and identifying publishers with diverse character alignments.
+
 <h1></h1>
 
 <h2>Dataset</h2>
