@@ -20,7 +20,7 @@
 
 <h2>Dataset</h2>
 
-This project utilizes the `heroes_information.csv dataset`, which contains detailed information about various comic book heroes. Each row in the dataset represents a unique hero, and the columns provide different attributes about them.
+This project utilizes the `heroes_information.csv` dataset, which contains detailed information about various comic book heroes. Each row in the dataset represents a unique hero, and the columns provide different attributes about them.
 
 Key features and columns of the dataset include:
 
@@ -45,6 +45,28 @@ Key features and columns of the dataset include:
   -  `Weight`: The weight of the hero (note: '-99.0' typically indicates missing or unknown values).
 
 This dataset is ideal for performing various analytical tasks related to character demographics, publisher distribution, and other attributes within the superhero universe.
+
+
+<h1></h1>
+
+
+<h2>Task Perfomed</h2>
+
+This project involved performing comprehensive exploratory data analysis (EDA) on the `heroes_information.csv` dataset using SQL. The primary objective was to gain insights into various characteristics of the comic book heroes, their publishers, and their attributes.
+
+Key analytical tasks performed include:
+
+  - <b>Demographic Analysis:</b> Investigating the distribution of heroes across different publishers, genders, and alignments (Good, Bad, Neutral).
+
+  - <b>Physical Attribute Analysis:</b> Calculating the average height and weight of heroes, with careful handling of missing data represented by '-99.0'.
+
+  - <b>Grouped Physical Attributes:</b> Determining the average height and weight broken down by both gender and alignment to understand trends within specific hero categories.
+
+  - <b>Publisher and Race Composition:</b> Analyzing the composition of heroes by race for each publisher to understand character diversity within different comic universes.
+
+  - <b>Alignment Diversity per Publisher:</b> Identifying and querying publishers that feature heroes spanning multiple distinct alignments, highlighting publishers with diverse character moral landscapes.
+
+All analyses were conducted using standard SQL queries, leveraging clauses such as `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `ORDER BY`, `COUNT`, `AVG`, `DISTINCT`, and `HAVING` to extract meaningful patterns and statistics from the dataset.
 
 
 <h1></h1>
