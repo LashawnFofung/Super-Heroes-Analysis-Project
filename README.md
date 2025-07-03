@@ -21,7 +21,7 @@
 
 <h2>Dataset</h2>
 
-This project utilizes the `heroes_information.csv` dataset, which contains detailed information about various comic book heroes. Each row in the dataset represents a unique hero, and the columns provide different attributes about them.
+This project utilizes the `heroes_information.csv` dataset, which contains detailed information about various comic book heroes. Each row in the dataset represents a unique hero, and the columns provide different attributes about them. The dataset has 732 rows (representing a unique hero) and 11 columns (providing attributes) .
 
 Key features and columns of the dataset include:
 
