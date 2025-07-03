@@ -8,7 +8,7 @@
    - [<b>Dataset</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#dataset)
    - [<b>Task Performed</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tech-stack)
    - [<b>Tech Stack</b>]()
-   - [<b>About SQL</b>]()
+   - [<b>About SQL</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#about-sql)
 
 
 
