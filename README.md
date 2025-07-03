@@ -17,12 +17,14 @@
 
 <h2>Overview</h2>
 
+<h1></h1>
 
 <h2>Dataset</h2>
 
 
 <h2>Task Performed</h2>
 
+<h1></h1>
 
 <h2>Tech Stack</h2>
  
@@ -31,6 +33,7 @@
   - <b>MySQL Workbench</b>
     - This is a visual database design tool that integrates SQL development, administration, database design, creation, and maintenance for the MySQL database system. It provides a graphical interface for users to interact with their MySQL databases.
 
+<h1></h1>
 
 <h2>About SQL</h2>
 
@@ -44,6 +47,7 @@ SQL is a standard programming language used to manage relational databases and p
 
   - <b>Data Control:</b> Managing database access permissions.
 
+<h1></h1>
 
 
 
