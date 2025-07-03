@@ -5,7 +5,7 @@
 <h2>Table of Contents</h2>
   
    - [<b>Overview</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#overview)
-   - [<b>Dataset</b>]()
+   - [<b>Dataset</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#dataset)
    - [<b>Task Performed</b>]()
    - [<b>Tech Stack</b>]()
    - [<b>About SQL</b>]()
