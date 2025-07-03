@@ -23,3 +23,14 @@ SELECT Publisher, Race, COUNT(*) AS NumberOfHeroes
 FROM heroes_information
 GROUP BY Publisher, Race
 ORDER BY Publisher, NumberOfHeroes DESC;
+
+
+/*Publishers with Heroes of Multiple Alignments
+-This query identifies publishers that have heroes spanning different alignments 
+(e.g., both "Good" and "Bad" or "Neutral" heroes).*/
+SELECT Publisher, COUNT(DISTINCT Alignment) AS DistinctAlignments
+FROM heroes_information
+WHERE Alignment IN ('Good', 'Bad', 'Neutral') -- Specify the alignments you are interested in
+GROUP BY Publisher
+HAVING COUNT(DISTINCT Alignment) > 1 -- Publishers with more than one distinct alignment
+ORDER BY DistinctAlignments DESC, Publisher;
