@@ -42,16 +42,20 @@ This query groups by the Alignment column and provides a count for each alignmen
 <h1></h1>
 
 <h1>Average Height & Weight</h1>
+
 Since the Height and Weight columns exist, and knowing that '-99.0' represents missing data, here are the queries to calculate the average height and weight, excluding those placeholder values.
+
+These queries calculate the average of the Height and Weight columns, respectively, only including valid numerical entries.
 
 <br>
 
 <b>Average Height</b>
+
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Height.png" width="450" alt="Average Height">
 
 <br>
 
-<b>Avergae Weight</b>
+<b>Average Weight</b>
 
 <br>
 
