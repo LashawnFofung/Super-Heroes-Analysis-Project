@@ -15,7 +15,8 @@ This query groups the data by the Publisher column and counts the number of entr
 
 <b>Question: What is the breakdown of heroes by gender?</b>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Gender%20vs%20Number%20Of%20Hereos.png” width="450" alt=“Gender”>
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Gender%20vs%20Number%20Of%20Hereos.png" width="450" alt=“Gender”>
+
 
 This will show you the count of heroes for each gender present in your dataset.
 
