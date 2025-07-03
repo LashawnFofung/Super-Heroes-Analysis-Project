@@ -6,6 +6,7 @@
   
    - [<b>Overview</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#overview)
    - [<b>Dataset</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#dataset)
+   - [<b>Task Performed</>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#task-perfomed)
    - [<b>Tech Stack</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tech-stack)
    - [<b>About SQL</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#about-sql)
 
