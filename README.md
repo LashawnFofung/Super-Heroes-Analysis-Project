@@ -50,10 +50,6 @@ This dataset is ideal for performing various analytical tasks related to charact
 
 <h1></h1>
 
-<h2>Task Performed</h2>
-
-<h1></h1>
-
 <h2>Tech Stack</h2>
  
   - <b>MySQL</b>
