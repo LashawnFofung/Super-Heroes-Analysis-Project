@@ -25,3 +25,7 @@ This query helps you understand the composition of heroes by race within each pu
 <br>
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/%20Count%20of%20Heroes%20per%20Publisher%20and%20Race.png" width="450" alt="Count of Hereos by Publisher and Hereos">
+
+<h1></h1>
+
+<h2></h2>
