@@ -78,6 +78,7 @@ Key analytical tasks performed include:
 
 All analyses were conducted using standard SQL queries, leveraging clauses such as `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `ORDER BY`, `COUNT`, `AVG`, `DISTINCT`, and `HAVING` to extract meaningful patterns and statistics from the dataset.
 
+Review the Data Exploration SQL Scripts: `Basic`: [<b>HERE</b>](), `Advanced`: [<b>HERE</b>]()
 
 <h1></h1>
 
