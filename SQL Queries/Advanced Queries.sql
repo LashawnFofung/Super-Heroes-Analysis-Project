@@ -34,3 +34,12 @@ WHERE Alignment IN ('Good', 'Bad', 'Neutral') -- Specify the alignments you are 
 GROUP BY Publisher
 HAVING COUNT(DISTINCT Alignment) > 1 -- Publishers with more than one distinct alignment
 ORDER BY DistinctAlignments DESC, Publisher;
+
+
+/*Average Hero Weight by Race
+This query is calculating the average weight for each race.*/
+USE hero;
+SELECT RACE, AVG(Weight)  AS avg_weight
+FROM heroes_information hi
+GROUP BY Race
+ORDER BY avg_weight  DESC;
