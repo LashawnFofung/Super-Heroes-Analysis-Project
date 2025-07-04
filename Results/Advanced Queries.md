@@ -39,3 +39,15 @@ This query identifies publishers that have heroes spanning different alignments 
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="450" alt="Publishers with Heroes of Multiple Alignments">
 
+<h1></h1>
+
+<h2>Average Hero Weight by Race</h2>
+
+<b>Question:What is the average weight of superheroes for each distinct race, and which races have the highest average weights?</b>
+
+This query is calculating the average weight for each race. It breaks down the overall average weight of all heroes to show how that average varies across different superhero races, and then orders them from heaviest to lightest average.
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="450" alt="Average Hero Weight by Race">
+
