@@ -10,7 +10,7 @@
    - [<b>Tech Stack</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tech-stack)
    - [<b>About SQL</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#about-sql)
    - [<b>Data Source</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#data-source)
-  - [<b>Tableau Public: Superheroes Analysis Project</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tableau-publich-dashboard)
+   - [<b>Tableau Public: Superheroes Analysis Project</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tableau-publich-dashboard)
 
 
 <h1></h1>
