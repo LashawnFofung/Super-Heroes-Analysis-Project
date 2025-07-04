@@ -80,7 +80,7 @@ All analyses were conducted using standard SQL queries, leveraging clauses such 
 
 <i>Review the Data Exploration SQL Scripts:<i> 
   - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
-  - `Advanced`: [<b>HERE</b>]()
+  - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
 
 <h1></h1>
 
