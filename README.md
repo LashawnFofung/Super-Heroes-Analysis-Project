@@ -78,7 +78,7 @@ Key analytical tasks performed include:
 
 All analyses were conducted using standard SQL queries, leveraging clauses such as `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `ORDER BY`, `COUNT`, `AVG`, `DISTINCT`, and `HAVING` to extract meaningful patterns and statistics from the dataset.
 
-<i>Review the Data Exploration SQL Scripts:<i> 
+<i>Review the Data Exploration SQL Scripts:</i> 
   - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
   - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
 
