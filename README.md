@@ -104,6 +104,15 @@ SQL is a standard programming language used to manage relational databases and p
 
 <h1></h1>
 
+<h2>Tableau Publich Dashboard</h2>
+
+I created a Tableau Public dashboard to analyze superhero data, focusing on publisher distribution, and average hero height and weight by gender and alignment. My process involved cleaning the dataset by handling missing values and standardizing text, then building individual visualizations in Tableau Desktop to answer specific questions like "Hero Count by Publisher" and "Average Hero Physique (by Gender & Alignment)". Finally, I designed an interactive dashboard, arranging charts logically and adding filters for user exploration, before publishing it to Tableau Public for wider access. Tableau is a powerful data visualization tool that allows users to connect to various data sources, create interactive dashboards and worksheets, and share their insights visually, without requiring extensive coding knowledge.
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard%20screenshot.png" width="550" alt="Tableau Public Dashboard Superhero Analysis">
+
+<h1></h1>
 
 <h2>Data Source</h2>
 
