@@ -10,7 +10,7 @@
    - [<b>Tech Stack</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tech-stack)
    - [<b>About SQL</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#about-sql)
    - [<b>Data Source</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#data-source)
-  - [<b>Tableau Public: Superheroes Analysis Project</b>](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [<b>Tableau Public: Superheroes Analysis Project</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/README.md#tableau-publich-dashboard)
 
 
 <h1></h1>
@@ -104,9 +104,11 @@ SQL is a standard programming language used to manage relational databases and p
 
 <h1></h1>
 
-<h2>Tableau Publich Dashboard</h2>
+<h2>Tableau Public Dashboard</h2>
 
 I created a Tableau Public dashboard to analyze superhero data, focusing on publisher distribution, and average hero height and weight by gender and alignment. My process involved cleaning the dataset by handling missing values and standardizing text, then building individual visualizations in Tableau Desktop to answer specific questions like "Hero Count by Publisher" and "Average Hero Physique (by Gender & Alignment)". Finally, I designed an interactive dashboard, arranging charts logically and adding filters for user exploration, before publishing it to Tableau Public for wider access. Tableau is a powerful data visualization tool that allows users to connect to various data sources, create interactive dashboards and worksheets, and share their insights visually, without requiring extensive coding knowledge.
+
+To view the interactive dashboard: [<b>Tableau Public: Superheroes Analysis Project</b>](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <br>
 
