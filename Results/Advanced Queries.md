@@ -12,7 +12,7 @@ This query will give you the average height and weight, broken down by both gend
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Height%20and%20Weight%20by%20Gender%20and%20Alignment.png" width="450" alt="Average Ht Wt by Gender Alignment">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Height%20and%20Weight%20by%20Gender%20and%20Alignment.png" width="450" height = "4" alt="Average Ht Wt by Gender Alignment">
 
 <h1></h1>
 
@@ -24,7 +24,7 @@ This query helps you understand the composition of heroes by race within each pu
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/%20Count%20of%20Heroes%20per%20Publisher%20and%20Race.png" width="450" alt="Count of Hereos by Publisher and Hereos">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/%20Count%20of%20Heroes%20per%20Publisher%20and%20Race.png" width="450" height = "4" alt="Count of Hereos by Publisher and Hereos">
 
 <h1></h1>
 
@@ -37,7 +37,7 @@ This query identifies publishers that have heroes spanning different alignments 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="450" alt="Publishers with Heroes of Multiple Alignments">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="450" height = "4" alt="Publishers with Heroes of Multiple Alignments">
 
 <h1></h1>
 
@@ -49,5 +49,5 @@ This query is calculating the average weight for each race. It breaks down the o
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="450" alt="Average Hero Weight by Race">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="450" height = "4" alt="Average Hero Weight by Race">
 
