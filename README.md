@@ -87,6 +87,9 @@ All analyses were conducted using standard SQL queries, leveraging clauses such 
     - This is an open-source relational database management system (RDBMS). It's widely used for web applications and is known for its speed, reliability, and ease of use. It stores data in tables with rows and columns.
   - <b>MySQL Workbench</b>
     - This is a visual database design tool that integrates SQL development, administration, database design, creation, and maintenance for the MySQL database system. It provides a graphical interface for users to interact with their MySQL databases.
+  - <b>Tableau</b>
+    - Tableau is a leading business intelligence (BI) and data visualization software. Its primary purpose is to help people and organizations "see and understand their data.
+    
 
 <h1></h1>
 
