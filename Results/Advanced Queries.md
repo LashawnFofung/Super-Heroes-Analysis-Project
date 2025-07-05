@@ -74,7 +74,7 @@ This analysis generates concise, human-readable superhero descriptions by using 
 <b>Question:How can individual superheroes be categorized by their eye color into 'Normal,' 'Scary,' or 'Other' groups?</b>
 
 <br>
-This section presents a data exploration exercise focused on classifying superheroes based on their eye color. Utilizing SQL's CASE statement, we've implemented conditional logic to group various eye colors into distinct, predefined categories. This analysis aims to provide a quick, intuitive understanding of superhero aesthetics beyond just their specific eye color.
+This section presents a data exploration exercise focused on classifying superheroes based on their eye color. Utilizing SQL's CASE statement, I implemented conditional logic to group various eye colors into distinct, predefined categories. This analysis aims to provide a quick, intuitive understanding of superhero aesthetics beyond just their specific eye color.
 
 <br>
 
