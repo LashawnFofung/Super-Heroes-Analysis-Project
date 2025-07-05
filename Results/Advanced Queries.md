@@ -135,3 +135,37 @@ This analysis explores the relative contribution of each superhero's weight to t
 <br>
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Window%20(Over)%20Function%20Weight%20vs%20Percent%20Total%20Weight.png" width="650" height="4" alt="WINDOW OVER Function Total Percent Weight">
+
+<h1></h1>
+
+<h2>WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)</h2>
+
+<br>
+
+<b>Questions:</b>
+
+  - <b>1. Question:</b> What is the overall average weight across all superheroes?
+
+  - <b>2. Question:</b> What are the average weights for superheroes grouped by their Publisher, Gender, and Race?
+   - <b>3. Question:</b>How does an individual superhero's weight compare to the average weight of heroes from their specific publisher and race?"
+
+<br>
+
+This analysis delves into the weight statistics of superheroes, leveraging SQL's powerful window functions to provide a multi-faceted comparison. Instead of just calculating simple aggregate averages, this query allows for the comparison of individual hero weights against various group averages (e.g., within their publisher, gender, or race) as well as the overall average, all within a single result set.
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/WINDOWS%20OVER%20Function%20Comparison%20of%20Average%20Weight.png" width="650" height="4" alt="WINDOW OVER Function Comparison of Average Weight">
+
+<br>
+
+
+<b>Key Analysis Points & SQL Concepts:</b>
+
+  - <b>Window Functions</b> `(OVER())`: This query extensively uses the OVER() clause, a core feature for analytical queries. Unlike GROUP BY (which aggregates rows and reduces the result set), window functions perform calculations over a defined "window" of rows without collapsing them, thus preserving individual row details.
+
+Overall Average (AVG(Weight) OVER()): Calculates the average weight across the entire dataset. The empty OVER() clause defines the window as the entire result set.
+
+Partitioned Averages (AVG(Weight) OVER (PARTITION BY ...)): Divides the dataset into partitions (e.g., by Publisher, Gender, or Race) and calculates the average weight independently within each of these groups.
+
+Individual Deviations and Percentages: By combining individual Weight with these calculated window averages, we derive metrics showing how an individual hero's weight stands relative to their group's average (e.g., Wt_Dv_Pub_Avg for deviation, Wt_Pct_of_Race_Avg for percentage of race average).
+
+Data Cleaning (WHERE clause): Crucially, the query filters out placeholder values (-99.0) and NULL values from the Weight column to ensure that all average calculations are accurate and based only on valid weight data.
