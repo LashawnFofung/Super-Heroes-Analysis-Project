@@ -51,3 +51,16 @@ This query is calculating the average weight for each race. It breaks down the o
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="450" height = "4" alt="Average Hero Weight by Race">
 
+<h1></h1>
+
+<h2>Hero Characteristic & Alignement</h2>
+
+<b>Question: What is the name of the gender, publisher, and side(alignemnt) of each hero</b>
+
+<br>
+
+This analysis generates concise, human-readable superhero descriptions by using the `CONCAT` function to combine `Name`, `Gender`, `Publisher`, and `Alignment`. This provides quick, at-a-glance understanding of each hero's affiliations, with results ordered by `Alignment` for easy Browse. Serving as a textual report, it offers detailed individual profiles rather than aggregate statistics.
+
+<br>
+
+<img src="" width="450" height="4" alt="Characteristic Alignment">
