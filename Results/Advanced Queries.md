@@ -170,6 +170,7 @@ This analysis delves into the weight statistics of superheroes, leveraging SQL's
 
   - <b>Data Cleaning (</b>`WHERE` <b>clause):</b> Crucially, the query filters out placeholder values (`-99.0`) and `NULL` values from the `Weight` column to ensure that all average calculations are accurate and based only on valid weight data.
 
+<br>
 
 <b>Results:</b>
 
