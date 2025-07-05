@@ -65,7 +65,7 @@ This analysis generates concise, human-readable superhero descriptions by using 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="650" height="4" alt="Characteristic Alignment">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="750" height="4" alt="Characteristic Alignment">
 
 <h1></h1>
 
