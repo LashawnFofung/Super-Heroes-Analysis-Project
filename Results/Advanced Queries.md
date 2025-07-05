@@ -160,12 +160,12 @@ This analysis delves into the weight statistics of superheroes, leveraging SQL's
 
 <b>Key Analysis Points & SQL Concepts:</b>
 
-  - <b>Window Functions</b> `(OVER())`: This query extensively uses the OVER() clause, a core feature for analytical queries. Unlike GROUP BY (which aggregates rows and reduces the result set), window functions perform calculations over a defined "window" of rows without collapsing them, thus preserving individual row details.
+  - <b>Window Functions (</b>`OVER()`<b>):</b> This query extensively uses the `OVER()` clause, a core feature for analytical queries. Unlike `GROUP BY` (which aggregates rows and reduces the result set), window functions perform calculations over a defined "window" of rows <i>without collapsing them</i>, thus preserving individual row details.
 
-Overall Average (AVG(Weight) OVER()): Calculates the average weight across the entire dataset. The empty OVER() clause defines the window as the entire result set.
+  - <b>Overall Average (</b>`AVG(Weight) OVER()`<b>):</b> Calculates the average weight across the entire dataset. The empty `OVER()` clause defines the window as the entire result set.
 
-Partitioned Averages (AVG(Weight) OVER (PARTITION BY ...)): Divides the dataset into partitions (e.g., by Publisher, Gender, or Race) and calculates the average weight independently within each of these groups.
+  - <b>Partitioned Averages (</b>`AVG(Weight) OVER (PARTITION BY ...)`<b>):</b> Divides the dataset into partitions (e.g., by `Publisher`, `Gender`, or `Race`) and calculates the average weight independently within each of these groups.
 
-Individual Deviations and Percentages: By combining individual Weight with these calculated window averages, we derive metrics showing how an individual hero's weight stands relative to their group's average (e.g., Wt_Dv_Pub_Avg for deviation, Wt_Pct_of_Race_Avg for percentage of race average).
+  - <b>Individual Deviations and Percentages:</b> By combining individual `Weight` with these calculated window averages, we derive metrics showing how an individual hero's weight stands relative to their group's average (e.g., `Wt_Dv_Pub_Avg for deviation`, `Wt_Pct_of_Race_Avg` for percentage of race average).
 
-Data Cleaning (WHERE clause): Crucially, the query filters out placeholder values (-99.0) and NULL values from the Weight column to ensure that all average calculations are accurate and based only on valid weight data.
+  - <b>Data Cleaning (</b>`WHERE` <b>clause):</b> Crucially, the query filters out placeholder values (`-99.0`) and `NULL` values from the `Weight` column to ensure that all average calculations are accurate and based only on valid weight data.
