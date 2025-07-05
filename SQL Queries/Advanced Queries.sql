@@ -75,3 +75,33 @@ ________________________________________________________________________________
 SELECT Publisher, Gender, Race, Weight, Height,
 Weight*100/SUM(Weight) OVER() AS pct_total_weight FROM heroes_information;
 _______________________________________________________________________________________
+/* Window (OVER) Function - Data Exploration
+ * Comparison of Average Weights*/
+SELECT Publisher, Gender, Race, Weight, Height,
+-- 1. Overall Average Weight for all heroes
+    AVG(Weight) OVER() AS Overall_Average_Weight,
+
+    -- 2. Average Weight within each Publisher group
+    -- Publisher_Average_Weight is Publisher_Avg_Weight
+    AVG(Weight) OVER (PARTITION BY Publisher) AS Publisher_Avg_Weight,
+
+    -- 3. Average Weight within each Gender group
+    -- Gender_Average_Weight is Gender_Avg_Weight
+    AVG(Weight) OVER (PARTITION BY Gender) AS Gender_Avg_Weight,
+
+    -- 4. Average Weight within each Race group
+    -- Race_Average_Weight is Race_Avg_Weight
+    AVG(Weight) OVER (PARTITION BY Race) AS Race_Avg_Weight,
+
+    -- 5. Individual Weight compared to their Publisher's Average
+    -- Weight_Deviation_From_Publisher_Avg is Wt_Dv_Pub_Avg 
+    (Weight - AVG(Weight) OVER (PARTITION BY Publisher)) AS Wt_Dv_Pub_Avg,
+
+    -- 6. Individual Weight as a percentage of their Race's Average (example comparison)
+    -- Weight_Percent_of_Race_Avg is Wt_Pct_of_Race_Avg
+   (Weight * 100.0 / AVG(Weight) OVER (PARTITION BY Race)) AS Wt_Pct_of_Race_Avg
+FROM heroes_information
+
+WHERE
+
+Weight != -99.0 AND Weight IS NOT NULL; 
