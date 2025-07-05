@@ -59,3 +59,14 @@ WHEN `Eye color` IN('red','yellow','orange','purple') THEN "Scary"
 ELSE "Other"
 END AS eye_color_category
 FROM heroes_information;
+_______________________________________________________________________________________
+/*HAVING Clause - data exploration
+ * How to get a list of superheroes who have an 
+ * average weight of less than 100 based on their race?
+ * This will be an Average (AVG) of weight(aggregated results) filter.
+*/
+SELECT Race, AVG(Weight) AS avg_weight FROM heroes_information
+GROUP BY Race
+HAVING avg_weight < 100
+ORDER BY avg_weight;
+
