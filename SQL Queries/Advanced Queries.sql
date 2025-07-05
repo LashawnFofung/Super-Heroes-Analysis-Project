@@ -76,7 +76,7 @@ SELECT Publisher, Gender, Race, Weight, Height,
 Weight*100/SUM(Weight) OVER() AS pct_total_weight FROM heroes_information;
 _______________________________________________________________________________________
 /* Window (OVER) Function - Data Exploration
- * Comparison of Average Weights*/
+ * Superhero Weight Analysis with Window Functions (Comparative Averages)*/
 SELECT Publisher, Gender, Race, Weight, Height,
 -- 1. Overall Average Weight for all heroes
     AVG(Weight) OVER() AS Overall_Average_Weight,
