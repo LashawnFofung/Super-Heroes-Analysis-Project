@@ -76,6 +76,8 @@ This analysis generates concise, human-readable superhero descriptions by using 
 <br>
 This section presents a data exploration exercise focused on classifying superheroes based on their eye color. Utilizing SQL's CASE statement, we've implemented conditional logic to group various eye colors into distinct, predefined categories. This analysis aims to provide a quick, intuitive understanding of superhero aesthetics beyond just their specific eye color.
 
+<br>
+
 <b>Categorization Logic:</b>
 
   - <b>"Normal" Category:</b> Includes superheroes with common eye colors such as blue, brown, green, or black.
@@ -86,4 +88,4 @@ This section presents a data exploration exercise focused on classifying superhe
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/CASE%20Statement%20Eye%20Color.png" width="450" height="4" alt="CASE Statement Eye Color">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/CASE%20Statement%20Eye%20Color.png" width="650" height="4" alt="CASE Statement Eye Color">
