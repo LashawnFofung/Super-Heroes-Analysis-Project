@@ -37,7 +37,7 @@ This query identifies publishers that have heroes spanning different alignments 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="450" height = "4" alt="Publishers with Heroes of Multiple Alignments">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="550" height = "4" alt="Publishers with Heroes of Multiple Alignments">
 
 <h1></h1>
 
@@ -65,4 +65,4 @@ This analysis generates concise, human-readable superhero descriptions by using 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="450" height="4" alt="Characteristic Alignment">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="650" height="4" alt="Characteristic Alignment">
