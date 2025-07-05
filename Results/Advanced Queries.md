@@ -11,8 +11,8 @@
   - [Hero Characteristic & Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#hero-characteristic--alignment)
   - [SQL CASE Statement: Superhero Eye Color Categorization](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#sql-case-statement-superhero-eye-color-categorization)
   - [HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#having-clause-analysis-of-superhero-race-average-weight-below-100)
-  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-individual-weight-contribution-to-total-percent-of-total-)
-  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-superhero-weight-analysis-with-window-functions-comparative-averages)
+  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function)
+  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)]()
 
 
 
