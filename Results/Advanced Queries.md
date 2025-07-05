@@ -6,14 +6,14 @@
   
   - [Average Height and Weight by Gender and Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-height-and-weight-by-gender-and-alignment)
   - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
-  - [Count of Heroes per Publisher and Race]()
-  - [Publishers with Heroes of Multiple Alignments]()
-  - [Average Hero Weight by Race]()
-  - [Hero Characteristic & Alignment]()
-  - [SQL CASE Statement: Superhero Eye Color Categorization]()
-  - [HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)]()
-  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)]()
-  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)]()
+  - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
+  - [Publishers with Heroes of Multiple Alignments](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#publishers-with-heroes-of-multiple-alignments)
+  - [Average Hero Weight by Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-hero-weight-by-race)
+  - [Hero Characteristic & Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#hero-characteristic--alignment)
+  - [SQL CASE Statement: Superhero Eye Color Categorization](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#sql-case-statement-superhero-eye-color-categorization)
+  - [HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#having-clause-analysis-of-superhero-race-average-weight-below-100)
+  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-individual-weight-contribution-to-total-percent-of-total-)
+  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-superhero-weight-analysis-with-window-functions-comparative-averages)
 
 
 
