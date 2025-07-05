@@ -69,4 +69,9 @@ SELECT Race, AVG(Weight) AS avg_weight FROM heroes_information
 GROUP BY Race
 HAVING avg_weight < 100
 ORDER BY avg_weight;
-
+_______________________________________________________________________________________
+/* Window (OVER) Function - Data Exploration
+ * to get percent of total weight */
+SELECT Publisher, Gender, Race, Weight, Height,
+Weight*100/SUM(Weight) OVER() AS pct_total_weight FROM heroes_information;
+_______________________________________________________________________________________
