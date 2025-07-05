@@ -169,3 +169,8 @@ This analysis delves into the weight statistics of superheroes, leveraging SQL's
   - <b>Individual Deviations and Percentages:</b> By combining individual `Weight` with these calculated window averages, we derive metrics showing how an individual hero's weight stands relative to their group's average (e.g., `Wt_Dv_Pub_Avg for deviation`, `Wt_Pct_of_Race_Avg` for percentage of race average).
 
   - <b>Data Cleaning (</b>`WHERE` <b>clause):</b> Crucially, the query filters out placeholder values (`-99.0`) and `NULL` values from the `Weight` column to ensure that all average calculations are accurate and based only on valid weight data.
+
+
+<b>Results:</b>
+
+The query produces a rich dataset where each row represents an individual superhero, augmented with several comparative average weight metrics. This allows for detailed insights into weight distributions, identifying how specific heroes or groups (publishers, genders, races) align with or deviate from various average benchmarks.
