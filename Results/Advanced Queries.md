@@ -66,3 +66,24 @@ This analysis generates concise, human-readable superhero descriptions by using 
 <br>
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="650" height="4" alt="Characteristic Alignment">
+
+<h1></h1>
+
+<h2>SQL CASE Statement: Superhero Eye Color Categorization</h2>
+
+<b>Question:How can individual superheroes be categorized by their eye color into 'Normal,' 'Scary,' or 'Other' groups?</b>
+
+<br>
+This section presents a data exploration exercise focused on classifying superheroes based on their eye color. Utilizing SQL's CASE statement, we've implemented conditional logic to group various eye colors into distinct, predefined categories. This analysis aims to provide a quick, intuitive understanding of superhero aesthetics beyond just their specific eye color.
+
+<b>Categorization Logic:</b>
+
+  - <b>"Normal" Category:</b> Includes superheroes with common eye colors such as blue, brown, green, or black.
+
+  - <b>"Scary" Category:</b> Assigned to heroes whose eye color is red, yellow, orange, or purple, often associated with more unusual or intimidating appearances.
+
+  - <b>"Other" Category:</b> Captures all eye colors that do not fall into the "Normal" or "Scary" definitions, highlighting unique or less common attributes.
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/CASE%20Statement%20Eye%20Color.png" width="450" height="4" alt="CASE Statement Eye Color">
