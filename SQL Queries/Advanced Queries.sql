@@ -46,7 +46,8 @@ ORDER BY avg_weight  DESC;
 
 
 /*Character Alignment
--This query provides a quick glance at specific characteristics of the superhero by using the CONCAT function.*/
+-This query provides a quick glance at specific characteristics of the superhero by using the CONCAT function. 
+This query generates a string that includes the name, gender, publisher, and alignment of each hero.*/
 SELECT CONCAT(name, " is a ", `Gender`," character by ", `Publisher`, " on the ", `Alignment`, " side", ".") 
 AS Character_Alignment FROM heroes_information hi
 ORDER BY `Alignment`DESC;
