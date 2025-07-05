@@ -130,7 +130,8 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <h1></h1>
 
-<h3>WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)</h3>
+<h3>WINDOW (OVER) FUNCTION: 
+  Individual Weight Contribution to Total (Percent of Total)</h3>
 
 <br>
 
@@ -154,7 +155,8 @@ This analysis explores the relative contribution of each superhero's weight to t
 
 <h1></h1>
 
-<h3>WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)</h3>
+<h3>WINDOW (OVER) FUNCTION: 
+  Superhero Weight Analysis with Window Functions (Comparative Averages)</h3>
 
 <br>
 
