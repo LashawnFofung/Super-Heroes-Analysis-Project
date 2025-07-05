@@ -2,9 +2,14 @@
 
 <h1>Advanced Queries</h1>
 
+<h2>Table Contents:<h2>
+  - [Average Height and Weight by Gender and Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-height-and-weight-by-gender-and-alignment)
+  - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
+
+
 <h1></h1>
 
-<h2>Average Height and Weight by Gender and Alignment</h2>
+<h3>Average Height and Weight by Gender and Alignment</h3>
 
 <b>Question: What is the average height and weight, broken down by both gender and alignment?</b>
 
@@ -16,7 +21,7 @@ This query will give you the average height and weight, broken down by both gend
 
 <h1></h1>
 
-<h2>Count of Heroes per Publisher and Race</h2>
+<h3>Count of Heroes per Publisher and Race</h3>
 
 <b>Question: How many heroes does each publisher have for each race?</b>
 
@@ -28,7 +33,7 @@ This query helps you understand the composition of heroes by race within each pu
 
 <h1></h1>
 
-<h2>Publishers with Heroes of Multiple Alignments</h2>
+<h3>Publishers with Heroes of Multiple Alignments</h3>
 
 <b>Question:Which publishers have heroes with multiple different alignments?</b>
 
@@ -53,7 +58,7 @@ This query is calculating the average weight for each race. It breaks down the o
 
 <h1></h1>
 
-<h2>Hero Characteristic & Alignment</h2>
+<h3>Hero Characteristic & Alignment</h3>
 
 <b>Question: What is the name of the gender, publisher, and side(alignment) of each hero</b>
 
@@ -69,7 +74,7 @@ This analysis generates concise, human-readable superhero descriptions by using 
 
 <h1></h1>
 
-<h2>SQL CASE Statement: Superhero Eye Color Categorization</h2>
+<h3>SQL CASE Statement: Superhero Eye Color Categorization</h3>
 
 <b>Question:How can individual superheroes be categorized by their eye color into 'Normal,' 'Scary,' or 'Other' groups?</b>
 
@@ -92,7 +97,7 @@ This section presents a data exploration exercise focused on classifying superhe
 
 <h1></h1>
 
-<h2>HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)</h2>
+<h3>HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)</h3>
 
 <b>Question: Which superhero races have an average weight of less than 100 units?</b>
 
@@ -116,7 +121,7 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <h1></h1>
 
-<h2>WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total) </h2>
+<h3>WINDOW (OVER) FUNCTION:</h3> Individual Weight Contribution to Total (Percent of Total)
 
 <b>Question: What percentage does each individual superhero's weight represent of the total combined weight of all superheroes?</b>
 
@@ -138,7 +143,7 @@ This analysis explores the relative contribution of each superhero's weight to t
 
 <h1></h1>
 
-<h2>WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)</h2>
+<h3>WINDOW (OVER) FUNCTION:</h3> Superhero Weight Analysis with Window Functions (Comparative Averages)
 
 <br>
 
