@@ -37,9 +37,16 @@ ORDER BY DistinctAlignments DESC, Publisher;
 
 
 /*Average Hero Weight by Race
-This query is calculating the average weight for each race.*/
+-This query is calculating the average weight for each race.*/
 USE hero;
 SELECT RACE, AVG(Weight)  AS avg_weight
 FROM heroes_information hi
 GROUP BY Race
 ORDER BY avg_weight  DESC;
+
+
+/*Character Alignment
+-This query provides a quick glance at specific characteristics of the superhero by using the CONCAT function.*/
+SELECT CONCAT(name, " is a ", `Gender`," character by ", `Publisher`, " on the ", `Alignment`, " side", ".") 
+AS Character_Alignment FROM heroes_information hi
+ORDER BY `Alignment`DESC;
