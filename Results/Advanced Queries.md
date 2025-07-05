@@ -2,10 +2,20 @@
 
 <h1>Advanced Queries</h1>
 
-<h2>Table Contents:<h2>
+<h2>Table Contents:</h2>
   
   - [Average Height and Weight by Gender and Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-height-and-weight-by-gender-and-alignment)
   - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
+  - [Count of Heroes per Publisher and Race]()
+  - [Publishers with Heroes of Multiple Alignments]()
+  - [Average Hero Weight by Race]()
+  - [Hero Characteristic & Alignment]()
+  - [SQL CASE Statement: Superhero Eye Color Categorization]()
+  - [HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)]()
+  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)]()
+  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)]()
+
+
 
 <h1></h1>
 
