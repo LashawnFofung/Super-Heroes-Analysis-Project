@@ -49,7 +49,7 @@ This query is calculating the average weight for each race. It breaks down the o
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="450" height = "4" alt="Average Hero Weight by Race">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="650" height = "4" alt="Average Hero Weight by Race">
 
 <h1></h1>
 
