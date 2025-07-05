@@ -45,7 +45,6 @@ SELECT CONCAT(name, " is a ", `Gender`," character by ", `Publisher`, " on the "
 AS Character_Alignment FROM heroes_information hi
 ORDER BY `Alignment`DESC;
 _______________________________________________________________________________________
-
 /*CASE Statement - data exploration.
  * Conditional statement when, then, else.
  * To classify the superheroes into three categories based on their eye color: normal, scary, and other.
