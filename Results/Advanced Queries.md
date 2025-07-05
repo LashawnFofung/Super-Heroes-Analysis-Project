@@ -116,9 +116,21 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <h1></h1>
 
-<h2>WINDOW (OVER) FUNCTION: </h2>
+<h2>WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total) </h2>
 
-<b>Question: ?</b>
+<b>Question: What percentage does each individual superhero's weight represent of the total combined weight of all superheroes?</b>
+
+<br>
+
+This analysis explores the relative contribution of each superhero's weight to the overall collective weight of all heroes in the dataset. It demonstrates a powerful application of SQL's window functions, specifically using SUM() OVER(), to perform aggregate calculations across the entire dataset while preserving the individual detail for each hero.
+
+<br>
+
+<b>Analysis Logic:</b>
+
+  - <b>Overall Sum Calculation:</b> The `SUM(Weight) OVER()` function calculates the grand total of all Weight values across the entire `heroes_information table`. The `OVER()` clause, without a `PARTITION BY`, signifies that the sum is computed over the entire set of rows.
+
+  - <b>Percentage Calculation:</b> Each hero's individual `Weight` is then divided by this overall sum and multiplied by 100 to determine their specific percentage contribution to the total weight.
 
 <br>
 
