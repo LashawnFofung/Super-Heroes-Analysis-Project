@@ -3,9 +3,9 @@
 <h1>Advanced Queries</h1>
 
 <h2>Table Contents:<h2>
+  
   - [Average Height and Weight by Gender and Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-height-and-weight-by-gender-and-alignment)
   - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
-
 
 <h1></h1>
 
