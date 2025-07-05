@@ -11,8 +11,8 @@
   - [Hero Characteristic & Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#hero-characteristic--alignment)
   - [SQL CASE Statement: Superhero Eye Color Categorization](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#sql-case-statement-superhero-eye-color-categorization)
   - [HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#having-clause-analysis-of-superhero-race-average-weight-below-100)
-  - [WINDOW (OVER) FUNCTION: Individual Weight Contribution to Total (Percent of Total)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function)
-  - [WINDOW (OVER) FUNCTION: Superhero Weight Analysis with Window Functions (Comparative Averages)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-1)
+  - [WINDOW (OVER) Function: Individual Weight Contribution to Total (Percent of Total)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function)
+  - [WINDOW (OVER) Function: Superhero Weight Analysis with Window Functions (Comparative Averages)](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#window-over-function-1)
 
 
 
@@ -130,7 +130,7 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <h1></h1>
 
-<h3>WINDOW (OVER) FUNCTION: 
+<h3>WINDOW (OVER) Function: 
   Individual Weight Contribution to Total (Percent of Total)</h3>
 
 <br>
@@ -155,7 +155,7 @@ This analysis explores the relative contribution of each superhero's weight to t
 
 <h1></h1>
 
-<h3>WINDOW (OVER) FUNCTION: 
+<h3>WINDOW (OVER) Function: 
   Superhero Weight Analysis with Window Functions (Comparative Averages)</h3>
 
 <br>
