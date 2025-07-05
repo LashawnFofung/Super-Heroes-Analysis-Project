@@ -113,3 +113,13 @@ This analysis explores the average physical characteristics of superheroes by fo
 <br>
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/HAVING%20Clause%20Race%20and%20AVG%20Weight%20.png" width="650" height="4" alt="HAVIG Clause Race and Average Weight">
+
+<h1></h1>
+
+<h2>WINDOW (OVER) FUNCTION: </h2>
+
+<b>Question: ?</b>
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Window%20(Over)%20Function%20Weight%20vs%20Percent%20Total%20Weight.png" width="650" height="4" alt="WINDOW OVER Function Total Percent Weight">
