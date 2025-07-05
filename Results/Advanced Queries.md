@@ -122,7 +122,7 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <br>
 
-This analysis explores the relative contribution of each superhero's weight to the overall collective weight of all heroes in the dataset. It demonstrates a powerful application of SQL's window functions, specifically using SUM() OVER(), to perform aggregate calculations across the entire dataset while preserving the individual detail for each hero.
+This analysis explores the relative contribution of each superhero's weight to the overall collective weight of all heroes in the dataset. It demonstrates a powerful application of SQL's window functions, specifically using `SUM() OVER()`, to perform aggregate calculations across the entire dataset while preserving the individual detail for each hero.
 
 <br>
 
