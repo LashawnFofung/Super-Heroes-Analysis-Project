@@ -6,7 +6,6 @@
   
   - [Average Height and Weight by Gender and Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-height-and-weight-by-gender-and-alignment)
   - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
-  - [Count of Heroes per Publisher and Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#count-of-heroes-per-publisher-and-race)
   - [Publishers with Heroes of Multiple Alignments](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#publishers-with-heroes-of-multiple-alignments)
   - [Average Hero Weight by Race](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#average-hero-weight-by-race)
   - [Hero Characteristic & Alignment](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Results/Advanced%20Queries.md#hero-characteristic--alignment)
