@@ -89,3 +89,27 @@ This section presents a data exploration exercise focused on classifying superhe
 <br>
 
 <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/CASE%20Statement%20Eye%20Color.png" width="650" height="4" alt="CASE Statement Eye Color">
+
+<h1></h1>
+
+<h2>HAVING Clause: Analysis of Superhero Race Average Weight (Below 100)</h2>
+
+<b>Question: Which superhero races have an average weight of less than 100 units?</b>
+
+<br>
+
+This analysis explores the average physical characteristics of superheroes by focusing on their race and weight. Specifically, it demonstrates the use of the HAVING clause to filter aggregated data, identifying groups based on specific conditions derived from the aggregation itself.
+
+<br>
+
+<b>Analysis Logic:</b>
+
+  - <b>Grouping:</b> The query first calculates the average weight (`AVG(Weight`)) for each distinct `Race` present in the `heroes_information` dataset.
+
+  - <b>Filtering Aggregated Results:</b> The `HAVING` clause then filters these aggregated results, retaining only those races where the calculated `avg_weight` is strictly less than 100. This is crucial for filtering results after `GROUP BY` operations.
+
+  - <b>Ordering:</b> Finally, the results are ordered in ascending order by their `avg_weight`, making it easy to identify the lightest-average races first.
+
+<br>
+
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/HAVING%20Clause%20Race%20and%20AVG%20Weight%20.png" width="650" height="4" alt="HAVIG Clause Race and Average Weight">
