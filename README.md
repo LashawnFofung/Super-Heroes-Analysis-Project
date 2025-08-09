@@ -118,7 +118,7 @@ To view the interactive dashboard: [<b>Tableau Public: Superheroes Analysis Proj
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard%20screenshot.png" width="550" alt="Tableau Public Dashboard Superhero Analysis">
+<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard.png" width="550" alt="Tableau Public Dashboard Superhero Analysis">
 
 <h1></h1>
 
