@@ -11,7 +11,7 @@
 This query groups the data by the Publisher column and counts the number of entries for each, then orders them from most to least heroes.
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publisher%20vs%20Number%20of%20Hereos.png" width="450" alt=“Publisher”>
+<img src="../Images/Publisher%20vs%20Number%20of%20Hereos.png" width="450" alt="Publisher">
   
 
 
@@ -24,7 +24,7 @@ This query groups the data by the Publisher column and counts the number of entr
 This query will show you the count of heroes for each gender present in your dataset.
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Gender%20vs%20Number%20Of%20Hereos.png" width="450" alt=“Gender”>
+<img src="../Images/Gender%20vs%20Number%20Of%20Hereos.png" width="450" alt="Gender">
 
 <h1></h1>
 
@@ -36,7 +36,7 @@ This query groups by the Alignment column and provides a count for each alignmen
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Alignment%20vs%20Number%20of%20Hereos.png" width="450" alt="Alignment">
+<img src="../Images/Alignment%20vs%20Number%20of%20Hereos.png" width="450" alt="Alignment">
 
 <h1></h1>
 
@@ -50,7 +50,7 @@ These queries calculate the average of the Height and Weight columns, respective
 
 <b>Average Height</b>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Height.png" width="450" alt="Average Height">
+<img src="../Images/Average%20Height.png" width="450" alt="Average Height">
 
 <br>
 
@@ -58,7 +58,6 @@ These queries calculate the average of the Height and Weight columns, respective
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Weight.png" width="450" alt="Average Weight">
+<img src="../Images/Average%20Weight.png" width="450" alt="Average Weight">
 
 <h1></h1>
-
