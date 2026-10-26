@@ -26,7 +26,7 @@ This query will give you the average height and weight, broken down by both gend
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Average%20Height%20and%20Weight%20by%20Gender%20and%20Alignment.png" width="450" height = "4" alt="Average Ht Wt by Gender Alignment">
+<img src="../Images/Average%20Height%20and%20Weight%20by%20Gender%20and%20Alignment.png" width="450" alt="Average Ht Wt by Gender Alignment">
 
 <h1></h1>
 
@@ -38,7 +38,7 @@ This query helps you understand the composition of heroes by race within each pu
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/%20Count%20of%20Heroes%20per%20Publisher%20and%20Race.png" width="450" height = "4" alt="Count of Hereos by Publisher and Hereos">
+<img src="../Images/%20Count%20of%20Heroes%20per%20Publisher%20and%20Race.png" width="450" alt="Count of Hereos by Publisher and Hereos">
 
 <h1></h1>
 
@@ -51,7 +51,7 @@ This query identifies publishers that have heroes spanning different alignments 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="550" height = "4" alt="Publishers with Heroes of Multiple Alignments">
+<img src="../Images/Publishers%20with%20Heroes%20of%20Multiple%20Alignments.png" width="550" alt="Publishers with Heroes of Multiple Alignments">
 
 <h1></h1>
 
@@ -63,7 +63,7 @@ This query is calculating the average weight for each race. It breaks down the o
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Averge%20Hero%20Weight%20by%20Race.png" width="650" height = "4" alt="Average Hero Weight by Race">
+<img src="../Images/Averge%20Hero%20Weight%20by%20Race.png" width="650" alt="Average Hero Weight by Race">
 
 <h1></h1>
 
@@ -79,7 +79,7 @@ This analysis generates concise, human-readable superhero descriptions by using 
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Character%20Alignment.png" width="750" height="4" alt="Characteristic Alignment">
+<img src="../Images/Character%20Alignment.png" width="750" alt="Characteristic Alignment">
 
 <h1></h1>
 
@@ -102,7 +102,7 @@ This section presents a data exploration exercise focused on classifying superhe
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/CASE%20Statement%20Eye%20Color.png" width="650" height="4" alt="CASE Statement Eye Color">
+<img src="../Images/CASE%20Statement%20Eye%20Color.png" width="650" alt="CASE Statement Eye Color">
 
 <h1></h1>
 
@@ -126,7 +126,7 @@ This analysis explores the average physical characteristics of superheroes by fo
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/HAVING%20Clause%20Race%20and%20AVG%20Weight%20.png" width="650" height="4" alt="HAVIG Clause Race and Average Weight">
+<img src="../Images/HAVING%20Clause%20Race%20and%20AVG%20Weight%20.png" width="650" alt="HAVIG Clause Race and Average Weight">
 
 <h1></h1>
 
@@ -151,7 +151,7 @@ This analysis explores the relative contribution of each superhero's weight to t
 
 <br>
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Window%20(Over)%20Function%20Weight%20vs%20Percent%20Total%20Weight.png" width="650" height="4" alt="WINDOW OVER Function Total Percent Weight">
+<img src="../Images/Window%20(Over)%20Function%20Weight%20vs%20Percent%20Total%20Weight.png" width="650" alt="WINDOW OVER Function Total Percent Weight">
 
 <h1></h1>
 
@@ -171,7 +171,7 @@ This analysis explores the relative contribution of each superhero's weight to t
 
 This analysis delves into the weight statistics of superheroes, leveraging SQL's powerful window functions to provide a multi-faceted comparison. Instead of just calculating simple aggregate averages, this query allows for the comparison of individual hero weights against various group averages (e.g., within their publisher, gender, or race) as well as the overall average, all within a single result set.
 
-<img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/WINDOWS%20OVER%20Function%20Comparison%20of%20Average%20Weight.png" width="650" height="4" alt="WINDOW OVER Function Comparison of Average Weight">
+<img src="../Images/WINDOWS%20OVER%20Function%20Comparison%20of%20Average%20Weight.png" width="650" alt="WINDOW OVER Function Comparison of Average Weight">
 
 <br>
 
